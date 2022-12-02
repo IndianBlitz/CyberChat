@@ -7,13 +7,13 @@ import { doc, getFirestore,collection, getDocs } from "firebase/firestore";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDB1Z7NN5JBeOmc7AeouAMIhUF3GqeFpCA",
-  authDomain: "cyberchat-7382d.firebaseapp.com",
-  projectId: "cyberchat-7382d",
-  storageBucket: "cyberchat-7382d.appspot.com",
-  messagingSenderId: "704475101117",
-  appId: "1:704475101117:web:a42c05bb2d53b1c959c4d4",
-  measurementId: "G-F5GQQYD94G"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 
